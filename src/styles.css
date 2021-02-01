@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+input[type = 'radio'] {
+  display: none;
+}
+
+.stars {
+  cursor: pointer;
+  transition: color .2s;
+}
